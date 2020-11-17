@@ -9,7 +9,7 @@ function successLocation(position) {
 }
 
 function errorLocation() {
-    setupMap([-2.24, 53.48])
+    setupMap([-2.24, 53.47])
 }
 
 function setupMap(center) {
